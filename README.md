@@ -32,13 +32,24 @@ To use this script, you need a userscript manager. The most popular one is **Tam
 
 ---
 
-### Installation
+### Installation (Manual)
 
-1.  Make sure you have Tampermonkey installed.
-2.  [**Click here to install the script directly from GitHub.**](https://github.com/melcom-creations/melcoms_highlighter_with_x/raw/main/melcoms_highlighter_with_x.js)
-3.  Tampermonkey will open a new tab. Click the "Install" button.
+This method always works and gives you full control.
 
-Alternatively, you can download the latest release from the [**Releases Page**](https://github.com/melcom-creations/melcoms_highlighter_with_x/releases) and drag the `.user.js` file into your browser.
+1.  **Get the Code:**
+    *   Go to the script file here on GitHub: [**melcoms_highlighter_with_x.js**](https://github.com/melcom-creations/melcoms_highlighter_with_x/blob/main/melcoms_highlighter_with_x.js)
+    *   Click the **"Copy raw file"** icon (looks like two overlapping squares) in the top-right corner of the code view. This copies the entire script into your clipboard.
+
+2.  **Add to Tampermonkey:**
+    *   Open the **Tampermonkey Dashboard** in your browser. (You can do this by clicking the Tampermonkey extension icon and selecting "Dashboard").
+    *   Click on the **`+`** tab (next to "Installed userscripts") to create a new script.
+
+3.  **Paste and Save:**
+    *   Delete all the template code that appears in the editor window.
+    *   Paste the code you copied from GitHub into the now empty editor.
+    *   Go to **File** -> **Save** in the editor menu (or press `Ctrl` + `S`).
+
+That's it! The script is now installed and active.
 
 ---
 
