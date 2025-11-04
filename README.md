@@ -4,14 +4,14 @@
 
 It’s perfect for marking up patch notes, articles, or forum posts. The script also automatically saves your highlights per page and restores them when you revisit.
 
-![Highlighter in Action](https://www.melcom-music.de/images/creations-highlighter-demo.gif) 
-*(Note: You might want to create a small demo GIF like this and add it to your repository for a better visual representation.)*
+![Highlighter in Action](https://www.melcom-music.de/images/creations-highlighter-demo.gif)
+*(Note: This is just a placeholder. You can create a small demo GIF and upload it to your repository to show the script in action.)*
 
 ---
 
 ### Features
 
-*   **Multiple Colors:** Highlight text in <span style="background-color: #ffff00; color: black;">yellow</span>, <span style="background-color: #80ff80; color: black;">green</span>, or <span style="background-color: #ff8080; color: black;">red</span>.
+*   **Multiple Colors:** Highlight text in ![yellow highlight](https://dummyimage.com/60x22/fff3a3/000.png&text=yellow), ![green highlight](https://dummyimage.com/70x22/bbf7d0/000.png&text=green), or ![red highlight](https://dummyimage.com/50x22/fecacb/000.png&text=red).
 *   **Easy Removal:** Simply hover over a highlight and click the "×" button to remove it.
 *   **Keyboard Shortcuts:**
     *   `ALT + 1`: Highlight selected text in yellow.
@@ -35,10 +35,11 @@ To use this script, you need a userscript manager. The most popular one is **Tam
 ### Installation
 
 1.  Make sure you have Tampermonkey installed.
-2.  [**Click here to install the script from GitHub.**](https://github.com/melcom-creations/melcoms_highlighter_with_x/raw/main/highlighter_with_x.user.js) *(Note: This link will work once you upload the script to your repository).*
+2.  [**Click here to install the script directly from GitHub.**](https://github.com/melcom-creations/melcoms_highlighter_with_x/raw/main/highlighter_with_x.user.js)
+    *   *(This link will work as soon as your `.user.js` file is in the repository)*
 3.  Tampermonkey will open a new tab. Click the "Install" button.
 
-That's it! The script is now active.
+Alternatively, you can download the latest release from the [**Releases Page**](https://github.com/melcom-creations/melcoms_highlighter_with_x/releases) and drag the `.user.js` file into your browser.
 
 ---
 
