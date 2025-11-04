@@ -35,8 +35,7 @@ To use this script, you need a userscript manager. The most popular one is **Tam
 ### Installation
 
 1.  Make sure you have Tampermonkey installed.
-2.  [**Click here to install the script directly from GitHub.**](https://github.com/melcom-creations/melcoms_highlighter_with_x/raw/main/highlighter_with_x.user.js)
-    *   *(This link will work as soon as your `.user.js` file is in the repository)*
+2.  [**Click here to install the script directly from GitHub.**](https://github.com/melcom-creations/melcoms_highlighter_with_x/raw/main/melcoms_highlighter_with_x.js)
 3.  Tampermonkey will open a new tab. Click the "Install" button.
 
 Alternatively, you can download the latest release from the [**Releases Page**](https://github.com/melcom-creations/melcoms_highlighter_with_x/releases) and drag the `.user.js` file into your browser.
