@@ -4,9 +4,6 @@
 
 It’s perfect for marking up patch notes, articles, or forum posts. The script also automatically saves your highlights per page and restores them when you revisit.
 
-![Highlighter in Action](https://www.melcom-music.de/images/creations-highlighter-demo.gif)
-*(Note: This is just a placeholder. You can create a small demo GIF and upload it to your repository to show the script in action.)*
-
 ---
 
 ### Features
