@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Highlighter with X – Edge 140 Fix (final)
-// @namespace   https://www.melcom-music.de/p/my-samples.html#highlighter
+// @namespace   https://github.com/melcom-creations/melcoms_highlighter_with_x
 // @version     1.3.0
 // @description Highlight text in yellow/green/red with hover-X removal; auto-save & restore; compatible with Edge 140+
 // @match       *://*/*
